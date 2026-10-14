@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>rm_video_player</name>
+  <version>0.1.0</version>
+  <description>Video player for testing armor detection (extracted from rm_camera_driver)</description>
+  <maintainer email="dev@example.com">dev</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>rclcpp_components</depend>
+  <depend>sensor_msgs</depend>
+  <depend>image_transport</depend>
+  <depend>image_transport_plugins</depend>
+  <depend>rm_utils</depend>
+  <depend>camera_info_manager</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

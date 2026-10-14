@@ -1,0 +1,10 @@
+[WARN] [1787933005.451599289] []: Old-style arguments are deprecated; see --help for new-style arguments
+[INFO] [1787933005.473029235] [static_transform_publisher_gaqqMpZA5wMrek0I]: Spinning until stopped - publishing transform
+translation: ('0.100000', '0.000000', '0.050000')
+rotation: ('-0.500000', '0.500002', '-0.500000', '0.499998')
+from 'odom' to 'camera_optical_frame'
+[WARN] [1788062189.693236976] []: Old-style arguments are deprecated; see --help for new-style arguments
+[INFO] [1788062189.714507463] [static_transform_publisher_AazFfXgYSrh302Rg]: Spinning until stopped - publishing transform
+translation: ('0.100000', '0.000000', '0.050000')
+rotation: ('-0.500000', '0.500002', '-0.500000', '0.499998')
+from 'odom' to 'camera_optical_frame'

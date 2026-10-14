@@ -1,0 +1,8 @@
+/**:
+  ros__parameters:
+    camera_info_url: file:///home/nvidia/vision_ws/config/camera_info.yaml
+    path: "/home/nvidia/vision_ws/input.avi"
+    frame_rate: 30
+    start_frame: 0
+    frame_id: "camera_optical_frame"
+    keep_looping: true              #是否循环播放

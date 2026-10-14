@@ -1,0 +1,10 @@
+[WARN] [1787931668.196598015] []: Old-style arguments are deprecated; see --help for new-style arguments
+[INFO] [1787931668.232251345] [static_transform_publisher_Cr7KqYJLHttG5G0a]: Spinning until stopped - publishing transform
+translation: ('0.100000', '0.000000', '0.050000')
+rotation: ('0.000000', '0.000000', '0.000000', '1.000000')
+from 'odom' to 'gimbal_link'
+[WARN] [1788062189.693225583] []: Old-style arguments are deprecated; see --help for new-style arguments
+[INFO] [1788062190.071133659] [static_transform_publisher_hel6I9qhXRuDGdT2]: Spinning until stopped - publishing transform
+translation: ('0.100000', '0.000000', '0.050000')
+rotation: ('0.000000', '0.000000', '0.000000', '1.000000')
+from 'odom' to 'gimbal_link'
